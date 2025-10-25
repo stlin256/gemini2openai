@@ -1,10 +1,10 @@
 # GeminiAI to OpenAI API Adapter
 
 ---
-[中文](#-中文) | [English](#-english)
+[中文](#中文) | [English](#english)
 ---
 
-## 🇨🇳 中文
+## 中文
 
 本项目是一个轻量级的 Go 应用，其功能是将 OpenAI 聊天 API 格式的请求转换为 Google Gemini API 格式。它允许您使用兼容 OpenAI 的客户端来调用 Gemini 后端，包括第三方的 Gemini 服务提供商。
 
@@ -126,7 +126,7 @@ curl http://localhost:8080/v1/chat/completions \
 
 ---
 
-## 🇬🇧 English
+## English
 
 This project is a lightweight Go application that acts as an adapter to convert API requests from the OpenAI Chat Completions format to the Google Gemini format. It allows you to use OpenAI-compatible clients with a Gemini backend, including third-party Gemini providers.
 
