@@ -1,6 +1,0 @@
-config.yaml
-/release
-/release/
-*.log
-.gitignore
-build.cmd
